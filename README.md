@@ -1,6 +1,6 @@
 # Python Recursive Fibonacci Sequences
 
-### luanch
+### launch
 
 run the faster version of fibonacci using caching
 
